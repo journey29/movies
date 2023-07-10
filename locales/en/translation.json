@@ -1,0 +1,59 @@
+{
+    "Questions":"Questions? Contact us.",
+    "Faq":"Faq",
+    "Media Center":"Media Center",
+    "Ways":"Ways",
+    "Cookie":"Cookie",
+    "Speed":"Speed",
+    "Help Center":"Help Center",
+    "Investor":"Investor",
+    "Terms":"Terms",
+    "Information":"Information",
+    "Notices":"Notices",
+    "Jobs":"Jobs",
+    "Privacy":"Privacy",
+    "Contact":"Contact",
+    "Netflix":"Netflix",
+    "Account":"Account",
+    "Catalog":"Catalog",
+    "Sign Up":"Sign Up",
+    "Log Out":"Log Out",
+    "Wishlist":"Wishlist",
+    "Not Found":"Not Found",
+    "main":{
+        "title":"Unlimited movies, TV shows, and more",
+        "watch":"Watch anywhere. Cancel anytime.",
+        "enter email":"Ready to watch? Enter your email to create or restart your membership.",
+        "input":"Your Email",
+        "button":"Subscribe"
+    },
+    "catalog":{
+        "title":"Catalog",
+        "input":"Search movies",
+        "movies":"Movies",
+        "series":"Series",
+        "episode":"Episode"
+    },
+    "wishlist":{
+        "title":"WishList",
+        "not added":"No movie added yet!"
+    },
+    "questions": {
+        "return policy":{
+            "title":"What is your return policy?",
+            "text":"Condimentum mattis pellentesque id nibh tortor id. Fermentum posuere urna nec tincidunt praesent semper."
+        },
+        "support":{
+            "title":"How can i get support?",
+            "text":"Condimentum mattis pellentesque id nibh tortor id. Fermentum posuere urna nec tincidunt praesent semper."
+        },
+        "gift card":{
+            "title":"How to redeem my gift card?",
+            "text":"Condimentum mattis pellentesque id nibh tortor id. Fermentum posuere urna nec tincidunt praesent semper."
+        },
+        "purchase":{
+            "title":"How do i pay for my purchase?",
+            "text":"Condimentum mattis pellentesque id nibh tortor id. Fermentum posuere urna nec tincidunt praesent semper."
+        }
+      }
+}

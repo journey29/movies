@@ -1,0 +1,59 @@
+{
+  "Questions":"Запитання? Зв'яжіться з нами.",
+  "Faq": "Запитання",
+  "Media Center": "Медіа Центер",
+  "Ways": "Шляхи для перегляду",
+  "Cookie": "Налаштування файлів Cookie",
+  "Speed": "Тест на швидкість",
+  "Help Center": "Центр допомоги",
+  "Investor": "Відносини з інвесторами",
+  "Terms": "Правила використання",
+  "Information": "Корпоративна інформація",
+  "Notices": "Правові повідомлення",
+  "Jobs": "Робота",
+  "Privacy": "Безпека",
+  "Contact": "Контаки",
+  "Netflix": "Netflix",
+  "Account": "Аккаунт",
+  "Catalog": "Каталог",
+  "Sign Up": "Зареєструватись",
+  "Log Out": "Вийти",
+  "Wishlist": "Список уподобань",
+  "Not Found": "Не знайдено",
+  "main": {
+    "title": "Необмежена кількість фільмів, серіалів тощо",
+    "watch": "Дивіться будь-де. Скасувати будь-коли. ",
+    "enter email": "Готові дивитися? Введіть свою електронну адресу, щоб створити або відновити ваше членство.",
+    "input": "Ваша поштова скриня",
+    "button": "Підписатись"
+  },
+  "catalog": {
+    "title": "Каталог",
+    "input": "Пошук фільмів",
+    "movies": "Фільми",
+    "series": "Серії",
+    "episode": "Епізод"
+  },
+  "wishlist": {
+    "title": "Список уподобань",
+    "not added": "Ще не додано жодного фільму!"
+  },
+  "questions": {
+    "return policy":{
+        "title":"Яка ваша політика повернення?",
+        "text":"Condimentum mattis pellentesque id nibh tortor id. Fermentum posuere urna nec tincidunt praesent semper."
+    },
+    "support":{
+        "title":"Як я можу отримати підтримку?",
+        "text":"Condimentum mattis pellentesque id nibh tortor id. Fermentum posuere urna nec tincidunt praesent semper."
+    },
+    "gift card":{
+        "title":"Як отримати подарункову картку?",
+        "text":"Condimentum mattis pellentesque id nibh tortor id. Fermentum posuere urna nec tincidunt praesent semper."
+    },
+    "purchase":{
+        "title":"Як мені оплатити покупку?",
+        "text":"Condimentum mattis pellentesque id nibh tortor id. Fermentum posuere urna nec tincidunt praesent semper."
+    }
+  }
+}

@@ -1,0 +1,20 @@
+$black: #000;
+$white: #fff;
+$light-gray: rgba(255, 255, 255, 0.7);
+$gray: #242424;
+$red: #D21312;
+$light-red:#ff3232;
+
+
+@mixin button {
+    padding: 12px 15px;
+    font-size: 20px;
+    font-weight: 600;
+    color: $white;
+    background-color: $red;
+    border-radius: 3px;
+    transition: background-color .5s, color .5s;
+    &:hover{
+        background-color: $light-red;
+    }
+}

@@ -16,6 +16,7 @@ Users of the Film Catalogue project can examine movie details, look for movies u
 
 
 ### You can see a small overview of the website below:
+![2023-07-11 22-28-30 (online-video-cutter com) (1)](https://github.com/journey29/movies/assets/128743243/38f4eb74-aa33-4e72-88c8-0d7196e20c69)
 
 
 ### To start the project you need to run a command in the terminal:
@@ -36,8 +37,9 @@ yarn run dev
 4. Redux TK - a global data repository for the application, thus a more convenient way to exchange information between the different components of our application;
 5. RTK Query - is a powerful data fetching and caching tool;
 6. Redux Persist -  persist and rehydrate redux stores;
-7. Movies API
-8. I18next
+7. Movies, SoundCloud API
+8. Skeleton
+9. I18next
 
 ## Contact:
 If you like the project you can contact me on Github or by using:

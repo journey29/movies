@@ -47,5 +47,5 @@ export interface IWishListItem {
 
 export const locales: Record<string, { title: string }> = {
   "en": { "title": "English" },
-  "ua": { "title": "Українська" }
+  "uk-UA": { "title": "Українська" }
 }

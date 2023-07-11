@@ -8,12 +8,11 @@ import { faArrowRight } from '@fortawesome/free-solid-svg-icons'
 
 export const Footer = () => {
     const { t, i18n } = useTranslation();
-    const [currentLangBtn, setCurrentLangBtn] = useState<string>('English');
     const [activeLangMenu, setActiveLangMenu] =useState<boolean>(false)
 
     const handleLangBtn = (lang:string, activeLang:string)=>{
         i18n.changeLanguage(lang)
-        setCurrentLangBtn(activeLang)
+        localStorage.setItem('currentLang', activeLang)
         setActiveLangMenu(false)
     }
 
@@ -87,7 +86,7 @@ export const Footer = () => {
                     </div>
                     <div className={classes.language}>
                         <div className={classes.language_active} onClick={()=>setActiveLangMenu(!activeLangMenu)}>
-                            <button>{currentLangBtn}</button>
+                            <button>{localStorage.getItem('currentLang') ? localStorage.getItem('currentLang') : 'English' }</button>
                             <FontAwesomeIcon icon={faArrowRight}/>
                         </div>
                         <div className={`${classes.language_menu} ${activeLangMenu ? classes.active : ''}`}>

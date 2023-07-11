@@ -29,6 +29,6 @@
       "assets/*":["assets/*"]
     }
   },
-  "include": ["src", "i18n.ts"],
+  "include": ["src", "src/i18n.ts"],
   "references": [{ "path": "./tsconfig.node.json" }]
 }
